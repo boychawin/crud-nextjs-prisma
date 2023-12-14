@@ -4,7 +4,6 @@ import { getTodo } from '@/utils/action';
 
 export default async function Home() {
   const [todo] = await Promise.all([getTodo()])
-  console.log(todo)
   return (
     <>
         <TodoList todos={todo} />
