@@ -1,4 +1,4 @@
-# How to CRUD with NextJS and Prisma
+# How to CRUD with NextJS and Prisma (test)
 
 Preview
 
